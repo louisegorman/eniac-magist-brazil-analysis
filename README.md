@@ -45,15 +45,18 @@ This was a group case study I completed as part of the **WBS Coding School Data 
 
 ### What counts as "expensive" on Magist? A box plot of tech item prices
 
+
 <img src="images/price_boxplot.png" alt="Box plot of Magist tech item prices" width="300">
 *Each dot is one tech item sold (14,430 items). Half cost €65 or less, and three quarters cost under €150. Anything above €331 is unusually expensive for Magist. Eniac's €540 average is higher than 95% of items.*
 
 ### Late deliveries go up when orders go up
 
+
 <img src="images/late_deliveries_by_month.png" alt="Orders and late delivery % per month" width="400">
 *Light blue = number of tech orders per month. Dark blue = % delivered late. 20% were late in March 2018, compared with 5% in a normal month.*
 
 ### Late orders get much worse reviews
+
 
 <img src="images/review_scores_late_vs_ontime.png" alt="Review scores for late and on-time orders" width="100">
 *Late orders average 2.2 stars, on-time orders 4.2 stars. 56% of late orders get a 1-star review, compared with 7.5% of on-time orders.*
