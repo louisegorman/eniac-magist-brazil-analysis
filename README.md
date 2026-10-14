@@ -60,11 +60,11 @@ This was a group case study I completed as part of the **WBS Coding School Data 
 ### Late orders get much worse reviews
 
 
-<img src="images/review_scores_late_vs_ontime.png" alt="Review scores for late and on-time orders" width="100">
+<img src="images/review_scores_late_vs_ontime.png" alt="Review scores for late and on-time orders" width="200">
 
 *Late orders average 2.2 stars, on-time orders 4.2 stars. 56% of late orders get a 1-star review, compared with 7.5% of on-time orders.*
 
-👉 **Interactive charts on Tableau Public:** [https://public.tableau.com/app/profile/louise.gorman/vizzes](https://public.tableau.com/app/profile/louise.gorman/vizzes)]
+👉 **Interactive charts on Tableau Public:** [https://public.tableau.com/app/profile/louise.gorman/vizzes](https://public.tableau.com/app/profile/louise.gorman/vizzes)
 
 ## 🛠️ Technologies Used
 
@@ -79,12 +79,13 @@ This was a group case study I completed as part of the **WBS Coding School Data 
 ├── presentation/
 │   └── eniac_magist_presentation.pdf   # Final slides
 ├── sql/
-│   └── eniac_magist_queries.sql                  # Every query behind every figure in the slides
+│   └── eniac_magist_queries.sql        # Every query behind every figure in the slides
 ├── tableau/
-│   └── *.csv                                     # Query results exported from MySQL and loaded into Tableau
+│   ├── *.csv                           # Magist tables exported from MySQL and loaded into Tableau
+│   └── eniac_magist.twbx               # Tableau workbook with all charts
 ├── images/
-│   └── *.png                                     # Charts shown in this README
-└── magist_schema.pdf                             # Database diagram
+│   └── *.png                           # Charts shown in this README
+└── magist_schema.pdf                   # Database diagram
 ```
 
 ## 🔗 How to Use This Project
