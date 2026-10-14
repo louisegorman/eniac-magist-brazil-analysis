@@ -36,8 +36,8 @@ This was a group case study I completed as part of the **WBS Coding School Data 
 
 - **Magist is not a high-end tech platform.** The average Magist tech item costs **€130**. Eniac's average item costs **€540**.
 - **Eniac would be an exception, not a normal seller.** Eniac's €540 average is higher than **95% of Magist tech items**. Half of all tech items sold cost **€65 or less**.
-- **The market is small.** All Magist tech sales combined make about **€153k a month**. Eniac alone makes **€1.17M a month** — about 7 times more.
-- **On-time looks good, but only because estimates are generous.** **91%** of tech orders arrive on time — but Magist promises **25 days** on average. Actual delivery takes **14 days**, which is too slow for Eniac.
+- **The market is small.** All Magist tech sales combined make about **€153k a month**. Eniac alone makes **€1.17M a month** .
+- **On-time looks good, but only because estimates are generous.** **91%** of tech orders arrive on time. Magist promises **25 days** on average. Actual delivery takes **14 days**, which is too slow for Eniac.
 - **Late deliveries spike at busy times.** **20%** of tech orders were late in March 2018 and **16%** in Black Friday week, compared with **5%** in a normal month.
 - **Late orders get bad reviews.** Late orders average **2.2 stars**, on-time orders **4.2 stars**. A late order is **7 times more likely** to get a 1-star review.
 - **Trust risk for Apple products.** Some 1-star reviews complain about fake or wrong Apple products, e.g. *"The product photo showed an original, with the Apple logo. What arrived was not original."* (translated from Portuguese)
