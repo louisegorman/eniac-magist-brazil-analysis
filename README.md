@@ -15,6 +15,9 @@ This was a group case study I completed as part of the **WBS Coding School Data 
 
 **Team Voltage:** Louise Gorman, Jeshwanthi Chitti Babu, and Shardul Vedpathak. I presented the final findings.
 
+**Result:** [final presentation (PDF)](presentation/eniac_magist_presentation.pdf) 
+
+
 ## 📊 Dataset & Sources
 
 - **Source:** Magist MySQL database, provided by WBS Coding School ([database schema](magist_schema.pdf))
