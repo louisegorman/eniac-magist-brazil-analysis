@@ -6,7 +6,7 @@ This was a group case study I completed as part of the **WBS Coding School Data 
 
 **The scenario:** Eniac, a Spanish online store selling Apple products and Apple-compatible accessories, wanted to expand into Brazil. The plan was to sign a 3-year contract with **Magist**, a Brazilian company that helps small sellers list on big marketplaces and handles their delivery.
 
-**The point of the case study:** use Magist's real sales database to answer one business question — *should Eniac sign the deal?* Eniac's management had two worries:
+**The point of the case study:** use Magist's real sales database to answer the business question: *should Eniac sign the deal?* Eniac's management had two worries:
 
 - **Product fit:** Is Magist a good place to sell high-end tech?
 - **Delivery speed:** Eniac's customers expect fast delivery. Are Magist's deliveries fast enough?
@@ -19,7 +19,7 @@ This was a group case study I completed as part of the **WBS Coding School Data 
 
 - **Source:** Magist MySQL database, provided by WBS Coding School ([database schema](magist_schema.pdf))
 - **Tables used:** `orders`, `order_items`, `products`, `product_category_name_translation`, `order_reviews`
-- **Time period analysed:** 1 April 2017 to 31 March 2018 — the same 12 months as Eniac's own figures, so we compare like for like
+- **Time period analysed:** 1 April 2017 to 31 March 2018 (the same 12 months as Eniac's own figures, so we compare like for like)
 - **Eniac's figures** (€14M yearly revenue, €1.17M a month, €540 average item price) came from the case brief
 
 **Key decisions and limits:**
@@ -31,7 +31,7 @@ This was a group case study I completed as part of the **WBS Coding School Data 
 
 ## 🚀 Key Findings
 
-- **Magist is not a high-end tech platform.** The average Magist tech item costs **€130**. Eniac's average item costs **€540**, about 4 times more.
+- **Magist is not a high-end tech platform.** The average Magist tech item costs **€130**. Eniac's average item costs **€540**.
 - **Eniac would be an exception, not a normal seller.** Eniac's €540 average is higher than **95% of Magist tech items**. Half of all tech items sold cost **€65 or less**.
 - **The market is small.** All Magist tech sales combined make about **€153k a month**. Eniac alone makes **€1.17M a month** — about 7 times more.
 - **On-time looks good, but only because estimates are generous.** **91%** of tech orders arrive on time — but Magist promises **25 days** on average. Actual delivery takes **14 days**, which is too slow for Eniac.
@@ -50,7 +50,7 @@ This was a group case study I completed as part of the **WBS Coding School Data 
 
 ### Late deliveries go up when orders go up
 
-<img src="images/late_deliveries_by_month.png" alt="Orders and late delivery % per month" width="300">
+<img src="images/late_deliveries_by_month.png" alt="Orders and late delivery % per month" width="400">
 *Light blue = number of tech orders per month. Dark blue = % delivered late. 20% were late in March 2018, compared with 5% in a normal month.*
 
 ### Late orders get much worse reviews
