@@ -21,7 +21,6 @@ This was a group case study I completed as part of the **[WBS Coding School](htt
 ## 📊 Dataset & Sources
 
 - **Source:** Magist MySQL database, provided by [WBS Coding School](https://github.com/WBSCodingSchool) ([database schema](magist_schema.pdf))
-- **Tables used:** `orders`, `order_items`, `products`, `product_category_name_translation`, `order_reviews`
 - **Time period analysed:** 1 April 2017 to 31 March 2018 (the same 12 months as Eniac's own figures, so we compare like for like)
 - **Eniac's figures** (€14M yearly revenue, €1.17M a month, €540 average item price) came from the case brief
 
