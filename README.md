@@ -13,7 +13,7 @@ This was a group case study I completed as part of the **[WBS Coding School](htt
 
 **Our answer: No. Eniac should not partner with Magist.** Magist's tech buyers mostly buy cheap items, deliveries take two weeks on average, and late deliveries hurt review scores.
 
-**Team Voltage:** Louise Gorman, Jeshwanthi Chitti Babu, and Shardul Vedpathak. I presented the final findings.
+**Team Voltage:** Louise Gorman, Jeshwanthi Chitti Babu, and Shardul Vedpathak.
 
 **Result:** [Final Presentation (PDF)](presentation/eniac_magist_presentation.pdf) 
 
